@@ -6,8 +6,8 @@ namespace Ejemplo02
     {
         static void Main(string[] args)
         {
-            double anchura = 2400.50;
-            string nombre = "mesa de trabajo";
+            // double anchura = 2400.50;
+            //string nombre = "mesa de trabajo";
             // para concatenar y mostrar en una linea de la consola.
             // Console.WriteLine($"{nombre} es {anchura}");
 

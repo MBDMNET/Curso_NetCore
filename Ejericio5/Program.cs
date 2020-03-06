@@ -14,7 +14,7 @@ namespace Ejericio1
             WriteLine("introduzca un dia de la semana");
             string diaSemana = ReadLine();
           
-            if(dia=="sabado" || dia=="domingo")
+            if(diaSemana=="sabado" || diaSemana=="domingo")
             {
                 WriteLine("es finde semana");
             }

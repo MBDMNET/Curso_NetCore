@@ -36,8 +36,14 @@ namespace Ejericio1
                 totalSum = totalSum+numeros[z];
                 totalPro  = totalPro*numeros[z];
             }
+            Console.ForegroundColor= ConsoleColor.Blue;
             WriteLine($"la suma es: {totalSum}");
+            Console.ForegroundColor= ConsoleColor.Red;
             WriteLine($"el producto es : {totalPro}");
+
+            Console.ForegroundColor= ConsoleColor.White;
+
+
 
             
             
