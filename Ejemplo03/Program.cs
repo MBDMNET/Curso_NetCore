@@ -19,7 +19,7 @@ namespace Ejemplo03
 
 
             // Console.WriteLine("Pulse una tecla o combinaciones de teclas");
-            // ConsoleKeyInfo tecla = Console.ReadKey(); // sirve para saber que tipo de letra es
+             //ConsoleKeyInfo tecla = Console.ReadKey(); // sirve para saber que tipo de letra es
             // Console.WriteLine(); // espacio en blanco
             // Console.WriteLine("tecla:{0}, caracter que representa: {1}, tecla modificador: {2} ",
             // arg0:tecla.Key, // los arg0, arg1, y arg2 se sustituyen por el {0},{1},{2}
