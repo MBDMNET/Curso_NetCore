@@ -1,0 +1,11 @@
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.exe
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.deps.json
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.runtimeconfig.json
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.runtimeconfig.dev.json
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.dll
+C:\laragon\www\curso .net\Ejemplo03\bin\Debug\netcoreapp3.1\Ejemplo03.pdb
+C:\laragon\www\curso .net\Ejemplo03\obj\Debug\netcoreapp3.1\Ejemplo03.csprojAssemblyReference.cache
+C:\laragon\www\curso .net\Ejemplo03\obj\Debug\netcoreapp3.1\Ejemplo03.AssemblyInfoInputs.cache
+C:\laragon\www\curso .net\Ejemplo03\obj\Debug\netcoreapp3.1\Ejemplo03.AssemblyInfo.cs
+C:\laragon\www\curso .net\Ejemplo03\obj\Debug\netcoreapp3.1\Ejemplo03.dll
+C:\laragon\www\curso .net\Ejemplo03\obj\Debug\netcoreapp3.1\Ejemplo03.pdb

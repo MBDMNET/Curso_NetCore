@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\laragon\\www\\curso .net\\Ejemplo07\\curso .net.csproj": {}
+  },
+  "projects": {
+    "C:\\laragon\\www\\curso .net\\Ejemplo07\\curso .net.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\laragon\\www\\curso .net\\Ejemplo07\\curso .net.csproj",
+        "projectName": "curso .net",
+        "projectPath": "C:\\laragon\\www\\curso .net\\Ejemplo07\\curso .net.csproj",
+        "packagesPath": "C:\\Users\\b1man\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\curso .net\\Ejemplo07\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b1man\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
