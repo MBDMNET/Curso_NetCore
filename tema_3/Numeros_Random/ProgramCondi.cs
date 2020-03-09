@@ -72,6 +72,33 @@ namespace Ejemplo02
             }
              WriteLine(fila);
              WriteLine($"El total es  {total2:N0}"); //:N0 lo formatea a ponerle los . de los miles      
+
+
+
+            //While
+            
+                int x = 0;
+                Clear();
+                while(true)
+                {
+                    x++;
+                    if(x==2000)
+                    {
+                        break;
+                    }
+                }
+            
+
+            //do while
+            string Contraseña= String.Empty; //string.Empty es para ver si no esta vacia
+            do
+            {
+                    Clear();
+                   WriteLine($"Escriba la contraseña: ");
+                   Contraseña= ReadLine();
+
+            }while(Contraseña != "C4C4");
+            WriteLine("Lo has conseguido");
         }
     }
 }

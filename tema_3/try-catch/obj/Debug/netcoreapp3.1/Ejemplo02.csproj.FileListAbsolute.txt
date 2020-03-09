@@ -1,0 +1,66 @@
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\curso .net\Ejemplo02\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\curso .net\Ejemplo02\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\curso .net\Ejemplo02\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\curso .net\Ejemplo02\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\curso .net\Ejemplo02\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\curso .net\Ejemplo02\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Ejemplo01\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Condicionales\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Numeros_Random\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\Operadores_con_variables\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.exe
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.deps.json
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\obj\Debug\netcoreapp3.1\Ejemplo02.dll
+C:\laragon\www\Curso_NetCore\tema_3\try-catch\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
