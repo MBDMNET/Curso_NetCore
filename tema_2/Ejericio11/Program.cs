@@ -3,7 +3,7 @@ using static System.Console; // esto vale para que no tengas que escribir el Con
 
 namespace Ejericio1
 {
-    enum dias {lunes=1,martes,miercoles,jueves,viernes,sabado,domingo};
+    
     class Program
     {
          
