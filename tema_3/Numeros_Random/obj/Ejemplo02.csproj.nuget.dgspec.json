@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Condicionales\\Ejemplo02.csproj": {}
+    "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Numeros_Random\\Ejemplo02.csproj": {}
   },
   "projects": {
-    "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Condicionales\\Ejemplo02.csproj": {
+    "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Numeros_Random\\Ejemplo02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Condicionales\\Ejemplo02.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Numeros_Random\\Ejemplo02.csproj",
         "projectName": "Ejemplo02",
-        "projectPath": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Condicionales\\Ejemplo02.csproj",
+        "projectPath": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Numeros_Random\\Ejemplo02.csproj",
         "packagesPath": "C:\\Users\\b1man\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Condicionales\\obj\\",
+        "outputPath": "C:\\laragon\\www\\Curso_NetCore\\tema_3\\Numeros_Random\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b1man\\AppData\\Roaming\\NuGet\\NuGet.Config"

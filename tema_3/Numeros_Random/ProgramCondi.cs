@@ -71,6 +71,7 @@ namespace Ejemplo02
                  
             }
              WriteLine(fila);
-             WriteLine($"El total es  {total2:N0}"); //:N0 lo formatea a ponerle los . de los miles        }
+             WriteLine($"El total es  {total2:N0}"); //:N0 lo formatea a ponerle los . de los miles      
+        }
     }
 }
