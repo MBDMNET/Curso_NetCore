@@ -14,18 +14,7 @@ namespace Ejemplo02
              DateTime Fecha2 = new DateTime(2030,05,30);
              
 
-             for(int i=0; i>=0; i++)
-             {
-                    Fecha1.AddDays(i);
-
-                     if(DateTime.Parse(Fecha1)==DateTime(Fecha2))
-                     {
-                         
-                         WriteLine(i);
-                         break;
-                     }             
-                    
-             }  
+        
 
              //SOLUCION CORRECTA
              String fecha1Str= "30/05/2020";
