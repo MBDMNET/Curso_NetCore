@@ -21,7 +21,7 @@ namespace Ejemplo02
             {
                  numeros[i] = (new Random()).Next(-1000,1000);
                  WriteLine($"El numero {i+1} es el  {numeros[i]}");
-                 total= total*numeros[i];
+                 total= total+numeros[i];
                  
                  
                  
