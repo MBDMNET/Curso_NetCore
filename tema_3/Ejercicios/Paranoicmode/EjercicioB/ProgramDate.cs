@@ -26,6 +26,7 @@ namespace Ejemplo02
                     
                     Console.SetCursorPosition(ColOriginal+i, RowOriginal);
                     Console.Write("═");
+                    System.Threading.Thread.Sleep(10);
                     
             }
             
@@ -39,27 +40,33 @@ namespace Ejemplo02
                     {
                             Console.SetCursorPosition(ColOriginal, RowOriginal+z);
                             Console.Write("╠");
+                            System.Threading.Thread.Sleep(10);
                             for(int l=1;l<=90;l++)
                             {
                                      Console.SetCursorPosition(ColOriginal+l, RowOriginal+z);
                                     Console.Write("═");
+                                    System.Threading.Thread.Sleep(10);
                             }
                     }
                     else{
                             Console.SetCursorPosition(ColOriginal, RowOriginal+z);
                             Console.Write("║");
+                            System.Threading.Thread.Sleep(10);
                     }
             }
             Console.SetCursorPosition(ColOriginal, RowOriginal+z);
             Console.Write("╚");
+            System.Threading.Thread.Sleep(10);
             int x=1;
             for(;x<=90;x++)
             {
                     Console.SetCursorPosition(ColOriginal+x, RowOriginal+z);
                     Console.Write("═");
+                    System.Threading.Thread.Sleep(10);
             }
             Console.SetCursorPosition(ColOriginal+x, RowOriginal+z);
             Console.Write("╝");
+            System.Threading.Thread.Sleep(10);
             int y=1;
             for(;y<=30;y++)
             {
@@ -67,15 +74,18 @@ namespace Ejemplo02
                     {
                            Console.SetCursorPosition(ColOriginal+i, RowOriginal+y);
                             Console.Write("╣");
+                            System.Threading.Thread.Sleep(10);
                           
                     }
                     else{
                         Console.SetCursorPosition(ColOriginal+x, RowOriginal+y);
                         Console.Write("║");
+                        System.Threading.Thread.Sleep(10);
                     }
             }
             Console.SetCursorPosition(ColOriginal+x, RowOriginal);
                 Console.Write("╗");
+                System.Threading.Thread.Sleep(10);
 
                 //aqui añado la zona de la fecha
             Console.SetCursorPosition(ColOriginal+2, RowOriginal+2);
