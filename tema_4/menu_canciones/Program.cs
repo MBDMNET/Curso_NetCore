@@ -44,10 +44,13 @@ namespace Ejemplo02
                 {
                     case 1:
                     Cancion cancion=anadirCancion();
+                        
+                        
                       for(int i =0; i<100; i++)
                         {
-                            object longi = canciones[i].Titulo.Length;
-                            WriteLine($"{longi}");
+                            
+                            // var index = Array.LastIndexOf(canciones,"");
+                            // WriteLine(index);
 
                             if(canciones[i].Titulo =="" )
                             {

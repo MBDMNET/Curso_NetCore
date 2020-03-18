@@ -5,10 +5,20 @@ namespace Ejemplo02
 {
     class Program
     {
+        struct FechaNacimiento
+        {
+            public int Dia;
+            public int Mes;
+            public int Año;
+            
+            
+        }
         struct Persona
         {
             public string Nombre;
             public int Edad;
+            public FechaNacimiento FechaNacimiento;
+            
             
         }
 
@@ -36,8 +46,12 @@ namespace Ejemplo02
                 Persona humano;
                 humano.Nombre="nombre "+i;
                 humano.Edad=i;
+                humano.FechaNacimiento.Dia=08;
+                humano.FechaNacimiento.Mes=18;
+                humano.FechaNacimiento.Año=20;
+
                 personas[i]=humano;
-                WriteLine($"El nombre es: {personas[i].Nombre} y la edad es {personas[i].Edad}");
+                WriteLine($"El nombre es: {personas[i].Nombre} y la edad es {personas[i].Edad} y la fecha de nacimiento es {personas[i].FechaNacimiento.Dia}-{personas[i].FechaNacimiento.Mes}-{personas[i].FechaNacimiento.Año}");
             }      
             
               
