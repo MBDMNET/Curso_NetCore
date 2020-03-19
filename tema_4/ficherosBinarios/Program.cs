@@ -1,24 +1,16 @@
 ﻿using System;
 using static System.Console; // esto vale para que no tengas que escribir el Console....
 using System.IO;
-using System.Collections;
 
 namespace Ejemplo02
 {
-
     class Program
     {
-         struct Pelicula
-        {
-            public DateTime Fecha;
-            public string Titulo;
-            public string Tamaño;
-           
-        }
+        
 
         static void Main(string[] args)
         {
-              
+                        
             WriteLine("Seleccione que tipo de cabecera necesita 1 si es completo 2 si es para una lista");
             int cabecera=int.Parse(ReadLine());
            //Funciones para que el codigo no sea repetitivo y se crean fuera del main  
@@ -29,96 +21,76 @@ namespace Ejemplo02
            else{
                Cabecera2();
            }
+            
 
+        //Ficheros Binarios
+        // BinaryReader fichero;
+        // string nombreFichero;
+        // byte datoFichero;
+        // nombreFichero="ejemplo.bmp"; 
+        // fichero = new BinaryReader(File.Open(nombreFichero,FileMode.Open));
+        // datoFichero= fichero.ReadByte();
+        // SetCursorPosition(0,12);
+        // WriteLine($"El byte leido es: {datoFichero}");
+        // fichero.Close();
 
-
-            //aqui leemos el archivo que existe
-            StreamReader Peliculas;
-            Peliculas = File.OpenText("disney2.txt");
-            int total=0;
-            string linea;
-            for(total=0;total>=0;total++)
-            {
-                linea=Peliculas.ReadLine(); 
-                if(linea==null)
-                {
-                    WriteLine($"El nuermo total de peliculas es: {total}");
-                    break;
-                }
-            }
+        //leer 10 bytes de un fichero
+        FileStream fichero;
+        string nombreFichero;
+        byte [] datos;
+        int numByteLeidos;
+        nombreFichero="pinza.gif";
+        fichero=File.OpenRead(nombreFichero);
+        datos= new byte [128];
+        int pos=0;
+        int cantidadaleer =128;
+        int xmin;
+        int xmax;
+        int ymin;
+        int ymax;
+        numByteLeidos=fichero.Read(datos,pos,cantidadaleer);
+        if(numByteLeidos<10)
+        {
+            SetCursorPosition(0,10);
+            WriteLine("NO se han podido leer datos");
+        }
+        else
+        {
+             SetCursorPosition(0,10);
             
-            StreamReader Peliculas2;
-            Peliculas2 = File.OpenText("disney2.txt");
-            Pelicula [] ColleccionPeliculas ;
-            ColleccionPeliculas = new Pelicula[total];
-            DateTime Fecha;
-          
-            string Tamaño;
-            string linea2;
-             
-            SetCursorPosition(0,12);
-
-            WriteLine(total);
-           for(int i=0; i<total;i++)
-           {
-            Pelicula film;
-            
-            
-            linea2=Peliculas2.ReadLine();
-            Fecha=DateTime.Parse(linea2.Substring(0,17));   
-            linea2=linea2.Remove(0,22);            
-            Tamaño=linea2.Substring(0,13);
-            Tamaño=Tamaño.Replace(" ","");
-            linea2=linea2.Remove(0,14);
-                //WriteLine(Tamaño);
-            
-            
-            film.Fecha=Fecha;
-            film.Tamaño= Tamaño ;
-            film.Titulo=linea2;
-            ColleccionPeliculas[i]=film;
-            //WriteLine($" el tamaño es : {ColleccionPeliculas[i].Titulo}, el titulo es {film.Titulo} y la fecha es {film.Fecha}");             
-           
-            
-           }
-            Peliculas.Close();  
-            StreamWriter fichero;
-            Array.Sort(ColleccionPeliculas, (x, y) => x.Fecha.CompareTo(y.Fecha));
-            for(int j=0; j<total;j++)
-            {
+                                 
+                xmax = datos[6] | (datos[7] << 8);                 
+                 WriteLine($"El ancho es: {xmax}");               
+                 
+                ymax = datos[8] | (datos[9] << 8);                 
+                 WriteLine($"El alto es: {ymax}");
                 
-                        WriteLine(ColleccionPeliculas[j].Titulo);
-                        WriteLine(ColleccionPeliculas[j].Tamaño);
-                        WriteLine(ColleccionPeliculas[j].Fecha);
-                        if(!File.Exists("ficheroOrdenadoPorFechas.txt"))
-                        {
-                            fichero = File.CreateText("ficheroOrdenadoPorFechas.txt");
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Fecha}"); 
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Tamaño}"); 
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Titulo}");  
-                            fichero.Close();
-                        }
-                        else{
-                            fichero = File.AppendText("ficheroOrdenadoPorFechas.txt");
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Fecha}"); 
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Tamaño}"); 
-                            fichero.WriteLine($"{ColleccionPeliculas[j].Titulo}");  
-                            fichero.Close();
-                        }
-                   
-            }
+                 
+             
 
+            //   for(int z=16; z<64;z++)
+            //  {
+            //     WriteLine(datos[z] | (datos[z+1] << 8));
+
+            //  }
             
+            
+        }
+
+        fichero.Close();
+   
+            
+
+        
+         
+               
+        
+
+        
               
-           
-          
-           
-
+        
            
             
-            
-            
-
     }
 
 
