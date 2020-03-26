@@ -1,0 +1,8 @@
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\bin\Debug\netstandard2.0\classLib.deps.json
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\bin\Debug\netstandard2.0\classLib.dll
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\bin\Debug\netstandard2.0\classLib.pdb
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\obj\Debug\netstandard2.0\classLib.csprojAssemblyReference.cache
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\obj\Debug\netstandard2.0\classLib.AssemblyInfoInputs.cache
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\obj\Debug\netstandard2.0\classLib.AssemblyInfo.cs
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\obj\Debug\netstandard2.0\classLib.dll
+c:\laragon\www\Curso_NetCore\tema_5\tema5C\classLib\obj\Debug\netstandard2.0\classLib.pdb

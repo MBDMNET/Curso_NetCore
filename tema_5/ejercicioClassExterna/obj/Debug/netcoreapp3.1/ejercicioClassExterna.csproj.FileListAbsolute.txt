@@ -1,0 +1,9 @@
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\obj\Debug\netcoreapp3.1\ejercicioClassExterna.csprojAssemblyReference.cache
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.exe
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.deps.json
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.runtimeconfig.json
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.runtimeconfig.dev.json
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.dll
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\bin\Debug\netcoreapp3.1\ejercicioClassExterna.pdb
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\obj\Debug\netcoreapp3.1\ejercicioClassExterna.dll
+c:\laragon\www\Curso_NetCore\tema_5\ejercicioClassExterna\obj\Debug\netcoreapp3.1\ejercicioClassExterna.pdb

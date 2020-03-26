@@ -65,8 +65,6 @@ C:\laragon\www\Curso_NetCore\tema_5\claseAbstracta\bin\Debug\netcoreapp3.1\Ejemp
 C:\laragon\www\Curso_NetCore\tema_5\claseAbstracta\bin\Debug\netcoreapp3.1\Ejemplo02.dll
 C:\laragon\www\Curso_NetCore\tema_5\claseAbstracta\bin\Debug\netcoreapp3.1\Ejemplo02.pdb
 C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\obj\Debug\netcoreapp3.1\Ejemplo02.csprojAssemblyReference.cache
-C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfoInputs.cache
-C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\obj\Debug\netcoreapp3.1\Ejemplo02.AssemblyInfo.cs
 C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\obj\Debug\netcoreapp3.1\Ejemplo02.dll
 C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\obj\Debug\netcoreapp3.1\Ejemplo02.pdb
 C:\laragon\www\Curso_NetCore\tema_5\idaDePinza\bin\Debug\netcoreapp3.1\Ejemplo02.exe
