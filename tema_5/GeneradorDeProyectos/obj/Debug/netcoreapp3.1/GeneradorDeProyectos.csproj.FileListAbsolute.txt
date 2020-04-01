@@ -1,0 +1,9 @@
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.exe
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.deps.json
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.dll
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\bin\Debug\netcoreapp3.1\GeneradorDeProyectos.pdb
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\obj\Debug\netcoreapp3.1\GeneradorDeProyectos.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\obj\Debug\netcoreapp3.1\GeneradorDeProyectos.dll
+C:\laragon\www\Curso_NetCore\tema_5\GeneradorDeProyectos\obj\Debug\netcoreapp3.1\GeneradorDeProyectos.pdb

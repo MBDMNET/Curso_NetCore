@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\curso.net\\Ejericio7\\Ejericio1.csproj",
+      "projectUniqueName": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejericio7\\Ejericio1.csproj",
       "projectName": "Ejericio1",
-      "projectPath": "C:\\laragon\\www\\curso.net\\Ejericio7\\Ejericio1.csproj",
+      "projectPath": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejericio7\\Ejericio1.csproj",
       "packagesPath": "C:\\Users\\b1man\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\curso.net\\Ejericio7\\obj\\",
+      "outputPath": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejericio7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b1man\\AppData\\Roaming\\NuGet\\NuGet.Config"

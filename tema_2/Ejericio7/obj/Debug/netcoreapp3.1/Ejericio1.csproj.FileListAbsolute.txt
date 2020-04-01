@@ -64,3 +64,14 @@ C:\laragon\www\curso.net\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.AssemblyInf
 C:\laragon\www\curso.net\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.AssemblyInfo.cs
 C:\laragon\www\curso.net\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.dll
 C:\laragon\www\curso.net\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.pdb
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.exe
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.deps.json
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.dll
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\bin\Debug\netcoreapp3.1\Ejericio1.pdb
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.AssemblyInfoInputs.cache
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.AssemblyInfo.cs
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.dll
+C:\laragon\www\Curso_NetCore\tema_2\Ejericio7\obj\Debug\netcoreapp3.1\Ejericio1.pdb

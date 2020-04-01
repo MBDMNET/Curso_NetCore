@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laragon\\www\\curso .net\\Ejemplo02\\Ejemplo02.csproj": {}
+    "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejemplo02\\Ejemplo02.csproj": {}
   },
   "projects": {
-    "C:\\laragon\\www\\curso .net\\Ejemplo02\\Ejemplo02.csproj": {
+    "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejemplo02\\Ejemplo02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\curso .net\\Ejemplo02\\Ejemplo02.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejemplo02\\Ejemplo02.csproj",
         "projectName": "Ejemplo02",
-        "projectPath": "C:\\laragon\\www\\curso .net\\Ejemplo02\\Ejemplo02.csproj",
+        "projectPath": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejemplo02\\Ejemplo02.csproj",
         "packagesPath": "C:\\Users\\b1man\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\curso .net\\Ejemplo02\\obj\\",
+        "outputPath": "C:\\laragon\\www\\Curso_NetCore\\tema_2\\Ejemplo02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b1man\\AppData\\Roaming\\NuGet\\NuGet.Config"

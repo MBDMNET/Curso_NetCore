@@ -1,0 +1,9 @@
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\obj\Debug\netcoreapp3.1\Rastreo2.csprojAssemblyReference.cache
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.exe
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.deps.json
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.runtimeconfig.json
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.runtimeconfig.dev.json
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.dll
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\bin\Debug\netcoreapp3.1\Rastreo2.pdb
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\obj\Debug\netcoreapp3.1\Rastreo2.dll
+C:\laragon\www\Curso_NetCore\tema_5\Rastreo2\obj\Debug\netcoreapp3.1\Rastreo2.pdb
